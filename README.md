@@ -1,0 +1,3 @@
+Most the code in the LC-3 simulator was done by me. I had some problems figuring out the Fibonacci series. My program kept priting 999999999999999......
+and it was later on fixed using chat gpt. I also had problems managing the runtime stack and handling recursive function calls. I worked on fixing the stack pointer, saving and restoring registers, and checking the return addresses.
+which was debugged and understanded by using chat gpt
